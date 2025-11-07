@@ -55,7 +55,7 @@ cats-dogs-classifier/
 
 ## 🧩 Dataset Details
 
-* **Source:** [Kaggle Dogs vs Cats Dataset (Microsoft Research)](https://www.kaggle.com/c/dogs-vs-cats/data)
+* **Source:** [Kaggle Dogs vs Cats Dataset](https://www.kaggle.com/c/dogs-vs-cats/data)
 * **Total images:** 25,000
 * **Split:**
 
