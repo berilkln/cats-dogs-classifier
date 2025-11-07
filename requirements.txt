@@ -1,5 +1,5 @@
-tensorflow==2.17.0
-keras==3.3.3
-numpy==1.26.4
-pillow==10.3.0
-gradio==4.37.0
+tensorflow==2.16.2
+numpy
+matplotlib
+Pillow
+tqdm
